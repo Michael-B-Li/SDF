@@ -1,0 +1,8 @@
+dist-newstyle/
+.cabal-local/
+results/
+cabal.project.local
+cabal.project.local~
+.DS_Store
+*.hi
+*.o
